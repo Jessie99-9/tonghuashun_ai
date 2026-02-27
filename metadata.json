@@ -1,0 +1,8 @@
+{
+  "name": "同花顺 i问财 (THS iWencai AI)",
+  "description": "基于同花顺风格打造的 i问财 AI 金融助手，集成多维度选股分析与理财教育。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
